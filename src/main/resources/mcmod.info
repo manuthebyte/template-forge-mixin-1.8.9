@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "ExampleMod",
+  "description": "Nice mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["manuthebyte", "ExampleModDev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
