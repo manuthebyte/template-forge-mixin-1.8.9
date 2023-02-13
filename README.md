@@ -1,4 +1,4 @@
-# Template for Forge 1.8.9
+# Template for Forge 1.8.9 + Mixins
 
 **Note:** I have only tested this with IntelliJ, but it should work with Eclipse just fine.
 
