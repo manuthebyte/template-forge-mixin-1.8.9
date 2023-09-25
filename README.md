@@ -36,3 +36,8 @@ If you followed these steps but something went wrong, you can open an issue or c
 ## License
 
 You can read all the applying licenses in the file `LICENSE.md`
+
+## Support
+
+If you like this project, feel free to support me!<br><br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/manuthebyte)
